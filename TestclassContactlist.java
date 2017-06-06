@@ -4,6 +4,8 @@
  * using the other two classes
  * @author Donaldo
  */
+import java.io.Serializable;
+import java.ioException;
  import java.util.Scanner;
 public class TestclassContactlist {
 
