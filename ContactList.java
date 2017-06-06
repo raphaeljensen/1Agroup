@@ -8,7 +8,7 @@ Oneobject of this class represents a list contacts
  */
 public class ContactList {
 	
- private  a [];
+ private Contact[] list;
 
 /**
  * This will show the contact asked for
