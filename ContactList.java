@@ -1,4 +1,5 @@
 /**
+Oneobject of this class represents a list contacts 
  * This class will modify, print, store, and open a contact list
  * including first name, Last name, street address,
  * email, phone number, and notes on contact
@@ -7,7 +8,7 @@
  */
 public class ContactList {
 	
-	Object a [];
+ private  a [];
 
 /**
  * This will show the contact asked for
