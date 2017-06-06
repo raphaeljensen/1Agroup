@@ -1,6 +1,6 @@
 /**
  * This class will create an object containing info
- * on a person, including first name, last name,
+ * on ONE person, including first name, last name,
  * street address, phone number, and notes
  * @author Donaldo
  *
